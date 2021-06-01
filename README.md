@@ -1,16 +1,16 @@
-#BlackJack
+# BlackJack
 This is a Blackjack game based on C++ without GUI！
-##features
+## features
 - Full rules of Blackjack!
 - No GUI(if it is a feature)
 - An easter egg!(rather easy to find,reviewing codes isn't the best solution)
-##references
+## references
 Game rules are based on the entry at [wikipedia](https://en.wikipedia.org/wiki/Blackjack).
-##others
+## others
 A typical screenshot of the program running：![running](https://github.com/Xchiliarch/BlackJack/blob/main/running.png)
 
 
-###rules
+### rules
 
 >本游戏使用一副牌进行，游戏结束即重新洗牌开局
 >
