@@ -1,16 +1,16 @@
 # BlackJack
 This is a Blackjack game based on C++ without GUI！
-## features
+## Features
 - Full rules of Blackjack!
 - No GUI(if it is a feature)
 - An easter egg!(rather easy to find,reviewing codes isn't the best solution)
-## references
+## References
 Game rules are based on the entry at [wikipedia](https://en.wikipedia.org/wiki/Blackjack).
-## others
+## Others
 A typical screenshot of the program running：![running](https://github.com/Xchiliarch/BlackJack/blob/main/running.png)
 
 
-### rules
+### Rules
 
 >本游戏使用一副牌进行，游戏结束即重新洗牌开局
 >
@@ -43,4 +43,9 @@ A typical screenshot of the program running：![running](https://github.com/Xchi
 >***
 >牌点数说明：
 > 2~10 为牌面点数，JQK为10点，A为1点或11点（取决于手牌，以不爆牌的点数>作为其点数。例如：一张5一张A为16，两张8一张A为17
-> 
+
+## License
+
+This project is released under the [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](https://wtfpl2.com/)
+
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/logo-220x1601.png)](http://www.wtfpl.net/)
